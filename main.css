@@ -1,0 +1,11 @@
+table{
+    width: 400px;
+    height: 400px;
+    background-color: grey;
+}
+tr{
+    background-color: black;
+}
+.color{
+    background-color: white;
+}
